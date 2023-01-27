@@ -1,2 +1,4 @@
 Hello Learn basic git commands 
 Git and Github.
+git add
+git commit are basic commands
